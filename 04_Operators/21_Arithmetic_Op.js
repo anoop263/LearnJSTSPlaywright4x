@@ -23,5 +23,5 @@ console.log(101 % 2);    //1
 // n%2 ==0  -even number 
 
 //Exponential ** power 2^3=>8
-console.log(2 ** 3);
+console.log(2 ** 3);   //8
 

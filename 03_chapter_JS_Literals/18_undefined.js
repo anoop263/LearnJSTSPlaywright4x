@@ -4,4 +4,4 @@ let u = null;
 
 console.log([1,,3].length);    //3
 console.log([1,,3,].length);   //3
-console.log([,1,,3].length);   
+console.log([,1,,3].length);   //4 

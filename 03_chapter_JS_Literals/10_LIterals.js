@@ -10,4 +10,4 @@ let a = 10;
 //"undefined" is a literal
 //null is a literal
 //true is a literal
-console.log(4>=4);
+
